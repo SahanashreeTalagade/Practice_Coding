@@ -1,0 +1,33 @@
+Chef and Brain Speed
+
+In ChefLand, the speed of a human brain is measured in bits per second (bps).
+Chef has a threshold limit of X bps. If his brain speed goes above this limit, his calculations become prone to errors.
+
+Chef is currently working at Y bps.
+
+Your task is to determine whether Chef is prone to errors or not.
+
+Input Format
+
+A single line containing two space-separated integers:
+
+X — the threshold limit
+
+Y — the current working brain speed
+
+Output Format
+
+Print YES if Chef is prone to errors.
+
+Otherwise, print NO.
+
+(The output is case-insensitive.)
+
+Constraints
+1 ≤ X, Y ≤ 100
+
+Explanation
+
+Chef is prone to errors if Y > X
+
+Chef is not prone to errors if Y ≤ X
