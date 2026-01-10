@@ -1,0 +1,33 @@
+Problem Statement: Alice and Marks
+
+Alice and Bob appeared for the same test. Alice scored X marks, while Bob scored Y marks.
+Alice is considered happy if she has scored at least twice as many marks as Bob.
+
+Your task is to determine whether Alice is happy or not based on their scores.
+
+Input Format
+
+The first and only line of input contains two space-separated integers X and Y, where:
+
+X represents Alice’s marks
+
+Y represents Bob’s marks
+
+Output Format
+
+Print Yes if Alice is happy.
+
+Print No otherwise.
+
+Note: The output is case-insensitive. Any variation like YES, yes, or yEs is acceptable.
+
+Constraints
+
+1
+≤
+𝑋
+,
+𝑌
+≤
+100
+1≤X,Y≤100
